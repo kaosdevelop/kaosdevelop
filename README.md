@@ -11,7 +11,6 @@
 
 <h1 align="center">Hola 👋, soy Kevin Adorno Zaracho</h1>
 <h3 align="center">AI & GIS Engineer · Full‑Stack Developer · BPMN/Automation
-<br/><em>también conocido como <b>Kaos Atómico</b></em></h3>
 
 ---
 
