@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20GIS%20%7C%20Full‑Stack-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Paraguay-success" />
-  <img src="https://img.shields.io/badge/Languages-Español%20%7C%20English%20%7C%20Deutsch-informational" />
+  <img src="https://img.shields.io/badge/Languages-Español%20%7C%20English-informational" />
 </p>
 
 <h1 align="center">Hola 👋, soy Kevin Adorno Zaracho</h1>
