@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/map.svg" height="90" alt="GIS icon"/>
+  <img src="http://locustec.com/wp-content/uploads/2016/10/GIS.png" height="90" alt="GIS icon"/>
 </p>
 
 <p align="center">
