@@ -49,15 +49,32 @@
 
 ### 🛠️ Stack y herramientas
 
-**Lenguajes**: Python · JavaScript/TypeScript · PHP · SQL/PLpgSQL · Bash
-**Frameworks**: Django · Angular · Laravel · CodeIgniter · FastAPI
-**IA/LLM**: RAG + SQL · OpenAI API · embeddings · evaluación de documentos
-**SIG/Geo**: PostGIS · MapServer · QGIS · GDAL/OGR · ogr2ogr
-**Data/ML**: Pandas · NumPy · scikit‑learn
-**Mensajería/Integraciones**: WhatsApp Cloud API · Integración con **SAP**
-**Servidores/DevOps**: Ubuntu Server · Windows Server · Nginx/Apache · systemd · VPS (Contabo)
-**Orquestación/Automación**: **BPMN (Camunda)** · **n8n**
-**Gestión/Docs**: Jira · Confluence · Notion
+**Lenguajes**
+Python · JavaScript/TypeScript · PHP · SQL/PLpgSQL · Bash
+
+**Frameworks**
+Django · Angular · Laravel · CodeIgniter · FastAPI
+
+**IA / LLM**
+RAG + SQL · OpenAI API · embeddings · evaluación de documentos
+
+**SIG / Geo**
+PostGIS · MapServer · QGIS · GDAL/OGR · ogr2ogr
+
+**Data / ML**
+Pandas · NumPy · scikit-learn
+
+**Mensajería / Integraciones**
+WhatsApp Cloud API · Integración con SAP
+
+**Servidores / DevOps**
+Ubuntu Server · Windows Server · Nginx/Apache · systemd · VPS (Contabo)
+
+**Orquestación / Automatización**
+BPMN (Camunda) · n8n
+
+**Gestión / Documentación**
+Jira · Confluence · Notion
 
 ---
 
