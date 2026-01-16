@@ -92,7 +92,7 @@ Jira · Confluence · Notion
 
 ---
 
-### 📂 Proyectos sugeridos para fijar (pinned)
+### 📂 Proyectos
 
 * `sirt-indert-geo-modules` – módulos SIG con **PostGIS/MapServer/Laravel/CodeIgniter**
 * `crm-omnicanal-django-angular` – **Django + Angular** con **WhatsApp + SAP**
