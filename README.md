@@ -53,6 +53,11 @@ PostgreSQL · PostGIS · MapServer · Laravel · CodeIgniter · PL/pgSQL · GDAL
 
 ---
 
+### Frontend / Mobile
+Flutter · Angular · TypeScript · Tailwind · Blade
+
+---
+
 ### 🤖 RAG + SQL Engine (Research & Production)
 Retrieval-Augmented Generation connected directly to relational databases for:
 
