@@ -1,121 +1,146 @@
 <p align="center">
-  <img src="http://locustec.com/wp-content/uploads/2016/10/GIS.png" height="90" alt="GIS icon"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/external-gis-data-analytics-flatart-icons-outline-flatarticons.png" height="90" />
 </p>
 
+<h1 align="center">Kevin Adorno Zaracho</h1>
+
+<h3 align="center">
+AI Engineer · Backend & DevOps · Geospatial Systems (GIS) · System Architect
+</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20GIS%20%7C%20Full‑Stack-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Paraguay-success" />
-  <img src="https://img.shields.io/badge/Languages-Español%20%7C%20English-informational" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20RAG%20%7C%20GIS%20%7C%20SaaS-blue" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Laravel%20%7C%20PostgreSQL-success" />
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Linux%20%7C%20DevOps-orange" />
+  <img src="https://img.shields.io/badge/Location-Paraguay-lightgrey" />
 </p>
 
-<h1 align="center">Hola 👋, soy Kevin Adorno Zaracho</h1>
-<h3 align="center">AI & GIS Engineer · Full‑Stack Developer · BPMN/Automation
+---
+
+## 🧠 About Me
+
+I design and build **end-to-end intelligent systems** that combine:
+
+- Artificial Intelligence (LLMs, RAG, automation)
+- Backend engineering
+- Geospatial databases (GIS/PostGIS)
+- Cloud infrastructure & DevOps
+
+My focus is not just writing code —  
+**I architect complete systems that run reliably in production.**
+
+I specialize in:
+- High-performance backend architectures
+- AI connected directly to enterprise databases (RAG + SQL)
+- Geospatial data processing at scale
+- Automation of business and government workflows
+- SaaS platforms with real users and real impact
 
 ---
 
-### 🧭 Sobre mí
+## 🚀 Featured Work
 
-* Construyo **sistemas de alto impacto** que mezclan **Inteligencia Artificial**, **Sistemas de Información Geográfica (SIG)** y **desarrollo web** para resolver problemas reales.
-* Integré **RAG con SQL** para evaluar/automatizar flujos de datos empresariales y validación de documentos.
-* Aporto en el sector público paraguayo con soluciones **paperless (Ley de Papel 0)** y automatizaciones para aumentar productividad.
-* Me mueven la **eficiencia**, la **claridad técnica** y la **arquitectura simple pero poderosa**.
+### 🗺️ Government GIS Platform – INDERT (Paraguay)
+Geospatial modules and automation for land/territorial management.
 
-> **Tesis / línea de investigación:** *Integración de RAG con SQL para la Automatización y Análisis de Datos Empresariales.*
+**Impact**
+• Reduced manual work  
+• Paperless workflows (Ley Papel 0)  
+• Faster spatial queries & reporting  
 
----
-
-### 🚀 Logros y proyectos destacados
-
-* **SIRT – INDERT (Paraguay)** · Automatizaciones y módulos SIG que reducen tareas manuales y soportan la política **Papel 0**.
-
-  * Stack: **PostgreSQL + PostGIS**, **MapServer**, **Laravel**, **CodeIgniter (PHP)**, **OGR/GDAL**, triggers **PL/pgSQL**, auditoría de cambios, EPSG:32721.
-* **CRM Omnicanal (Redes Sociales)** con **Django + Angular**:
-
-  * Unifica atención de **WhatsApp/IG/FB** y se integra con **SAP** para sincronizar procesos y tickets.
-* **RAG + SQL** (I+D):
-
-  * Motor de consulta con **base de conocimiento tabular** que verifica consistencia de archivos (p.ej. Excel) y asiste con *data quality*.
-* **Recomendador por WhatsApp con IA local**:
-
-  * Bot que sugiere **equipos informáticos** según necesidades del cliente (perfilado por diálogo y reglas + LLM API local/externa).
-* **Facturación electrónica SIFEN**:
-
-  * Backend **Laravel Blade + Tailwind**, **PostgreSQL**, firma digital, app móvil y despliegue en **VPS Contabo**.
-* **WordPress/Elementor** para comercio (p.ej. *Construshopping*), con optimizaciones on‑page y analítica básica.
+**Stack**
+PostgreSQL · PostGIS · MapServer · Laravel · CodeIgniter · PL/pgSQL · GDAL/OGR
 
 ---
 
-### 🛠️ Stack y herramientas
+### 🤖 RAG + SQL Engine (Research & Production)
+Retrieval-Augmented Generation connected directly to relational databases for:
 
-**Lenguajes**
-Python · JavaScript/TypeScript · PHP · SQL/PLpgSQL · Bash
+• Document validation  
+• Data quality checks  
+• Enterprise knowledge queries  
 
-**Frameworks**
-Django · Angular · Laravel · CodeIgniter · FastAPI
-
-**IA / LLM**
-RAG + SQL · OpenAI API · embeddings · evaluación de documentos
-
-**SIG / Geo**
-PostGIS · MapServer · QGIS · GDAL/OGR · ogr2ogr
-
-**Data / ML**
-Pandas · NumPy · scikit-learn
-
-**Mensajería / Integraciones**
-WhatsApp Cloud API · Integración con SAP
-
-**Servidores / DevOps**
-Ubuntu Server · Windows Server · Nginx/Apache · systemd · VPS (Contabo)
-
-**Orquestación / Automatización**
-BPMN (Camunda) · n8n
-
-**Gestión / Documentación**
-Jira · Confluence · Notion
+**Stack**
+Python · LangChain · OpenAI · SQL · Embeddings · Vector search
 
 ---
 
-### 📌 Ahora mismo
+### 💬 Omnichannel CRM with AI
+WhatsApp/Instagram/Facebook automation integrated with SAP.
 
-* Terminando prototipo robusto de **RAG + SQL** para flujos empresariales.
-* Pulido de **módulos SIG** (consultas espaciales más eficientes, índices y *joins* afinados).
-* Expansión del **CRM omnicanal** y nuevas reglas de negocio integradas con SAP.
-
----
-
-### 🧪 Ciencia y comunidad
-
-* Miembro de **SOPAIA** (Sociedad Paraguaya de Inteligencia Artificial).
-* Charlas y workshops sobre **SIG + IA** (p.ej., Congreso Nacional de Informática; simposio Hotel Excelsior).
+**Stack**
+Django · Angular · WhatsApp Cloud API · BPMN · n8n
 
 ---
 
-### 📂 Proyectos
+### 🧾 Electronic Invoicing (SIFEN)
+Full backend + mobile + digital signature + VPS deployment.
 
-* `sirt-indert-geo-modules` – módulos SIG con **PostGIS/MapServer/Laravel/CodeIgniter**
-* `crm-omnicanal-django-angular` – **Django + Angular** con **WhatsApp + SAP**
-* `rag-sql-enterprise` – plantilla de **RAG + SQL** con ejemplos de validación de Excel
-* `sifen-einvoice-laravel` – base **SIFEN** con **Laravel/Blade**, firma digital y scripts
-* `whatsapp-local-ai-recommender` – bot recomendador para tienda de hardware
+**Stack**
+Laravel · PostgreSQL · Tailwind · DevOps (Linux/Nginx/Docker)
 
 ---
 
-### 🧑🏽‍💻 Filosofía de trabajo
+## 🛠 Tech Stack
 
-* **Menos fricción, más valor**: automatizar lo repetitivo, documentar lo esencial.
-* **Diseño primero, código después**: BPMN para alinear negocio y tecnología.
-* **Datos confiables**: *pipelines* reproducibles, auditoría y validación continua.
+### Core
+Python · PHP · SQL · TypeScript
+
+### Backend
+Laravel · Django · FastAPI · CodeIgniter
+
+### AI / LLM
+RAG · OpenAI API · Embeddings · LangChain · Data validation
+
+### Geospatial
+PostGIS · MapServer · QGIS · GDAL/OGR · Spatial SQL
+
+### DevOps
+Linux · Docker · Nginx · VPS · CI/CD · systemd
+
+### Automation
+Camunda (BPMN) · n8n · Chatbots · Integrations
 
 ---
 
-### 📫 Contacto
+## 📚 Research Interests
 
-Si querés colaborar o tenés una idea ✉️ **abrí un Issue** en este perfil o enviame un DM por GitHub.
+- RAG + SQL architectures
+- In-database analytics vs external ML
+- Performance optimization
+- Geospatial intelligence systems
+- AI for public sector automation
+
+---
+
+## 🧑‍💻 Selected Repositories
+
+| Project | Description |
+|--------|-------------|
+| `rag-sql-enterprise` | RAG + SQL templates for enterprise data |
+| `sirt-indert-geo-modules` | GIS modules with PostGIS/MapServer |
+| `crm-omnicanal` | Omnichannel CRM with bots + SAP |
+| `sifen-einvoice` | Electronic invoicing platform |
+| `whatsapp-ai-recommender` | AI product recommender bot |
+
+---
+
+## 🧭 Philosophy
+
+• Simplicity > complexity  
+• Automate everything repeatable  
+• Move computation closer to the database  
+• Design first, code second  
+• Build systems that scale, not scripts that break  
+
+---
+
+## 📫 Contact
+
+Open an issue or reach me on GitHub.
 
 ---
 
 <p align="center">
-  <sub>Última edición: 28/08/2025 · © Kevin Adorno Zaracho · “Artífexión”: crear con lógica y sensibilidad.</sub>
+  <sub>“Artífexión” — creating with logic and sensitivity.</sub>
 </p>
